@@ -1,0 +1,24 @@
+name: gameforge-mcp
+displayName: GameForge - Autonomous Game Development, Unity/Godot/Three.js & Steam Launch Engine MCP
+description: Universal game development engine for Cursor, Claude Code & Windsurf. Architects complete game blueprints (Unity vs Godot vs Unreal matrix, core loop design), generates production gameplay code (player controllers with coyote time, enemy AI state machines, combat systems), builds procedural generation (cellular automata caves, wave function collapse, weighted loot tables with pity timers), optimizes frame budgets with object pooling, and prepares Steam store pages, wishlists and launch-day checklists.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/gameforge-mcp
+repository: https://github.com/AmyGraphics/gameforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/gameforge-mcp/main/icon.png
+keywords:
+  - game-development
+  - godot
+  - unity
+  - threejs
+  - gamedev
+  - procedural-generation
+  - roguelike
+  - steam
+  - indie-games
+  - player-controller
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://gameforge-api.agentweb-hub.workers.dev/mcp
